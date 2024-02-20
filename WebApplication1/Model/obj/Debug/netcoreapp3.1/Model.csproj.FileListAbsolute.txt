@@ -8,3 +8,13 @@ C:\Users\Manikandan\source\repos\WebApplication1\Model\obj\Debug\netcoreapp3.1\M
 C:\Users\Manikandan\source\repos\WebApplication1\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
 C:\Users\Manikandan\source\repos\WebApplication1\Model\obj\Debug\netcoreapp3.1\Model.dll
 C:\Users\Manikandan\source\repos\WebApplication1\Model\obj\Debug\netcoreapp3.1\Model.pdb
+E:\Sample_Projects\testMode\Applications\WebApplication1\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+E:\Sample_Projects\testMode\Applications\WebApplication1\Model\bin\Debug\netcoreapp3.1\Model.dll
+E:\Sample_Projects\testMode\Applications\WebApplication1\Model\bin\Debug\netcoreapp3.1\Model.pdb
+E:\Sample_Projects\testMode\Applications\WebApplication1\Model\obj\Debug\netcoreapp3.1\Model.csproj.AssemblyReference.cache
+E:\Sample_Projects\testMode\Applications\WebApplication1\Model\obj\Debug\netcoreapp3.1\Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sample_Projects\testMode\Applications\WebApplication1\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+E:\Sample_Projects\testMode\Applications\WebApplication1\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+E:\Sample_Projects\testMode\Applications\WebApplication1\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+E:\Sample_Projects\testMode\Applications\WebApplication1\Model\obj\Debug\netcoreapp3.1\Model.dll
+E:\Sample_Projects\testMode\Applications\WebApplication1\Model\obj\Debug\netcoreapp3.1\Model.pdb
