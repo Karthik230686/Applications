@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Manikandan\\source\\repos\\WebApplication1\\Repository\\Repository.csproj",
+      "projectUniqueName": "D:\\Websites\\Applications\\WebApplication1\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "C:\\Users\\Manikandan\\source\\repos\\WebApplication1\\Repository\\Repository.csproj",
+      "projectPath": "D:\\Websites\\Applications\\WebApplication1\\Repository\\Repository.csproj",
       "packagesPath": "C:\\Users\\Manikandan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Manikandan\\source\\repos\\WebApplication1\\Repository\\obj\\",
+      "outputPath": "D:\\Websites\\Applications\\WebApplication1\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
