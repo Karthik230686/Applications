@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Sample_Projects\\testMode\\Applications\\WebApplication1\\Model\\Model.csproj": {}
+    "D:\\Websites\\Applications\\WebApplication1\\Model\\Model.csproj": {}
   },
   "projects": {
-    "E:\\Sample_Projects\\testMode\\Applications\\WebApplication1\\Model\\Model.csproj": {
+    "D:\\Websites\\Applications\\WebApplication1\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Sample_Projects\\testMode\\Applications\\WebApplication1\\Model\\Model.csproj",
+        "projectUniqueName": "D:\\Websites\\Applications\\WebApplication1\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "E:\\Sample_Projects\\testMode\\Applications\\WebApplication1\\Model\\Model.csproj",
+        "projectPath": "D:\\Websites\\Applications\\WebApplication1\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\Manikandan\\.nuget\\packages\\",
-        "outputPath": "E:\\Sample_Projects\\testMode\\Applications\\WebApplication1\\Model\\obj\\",
+        "outputPath": "D:\\Websites\\Applications\\WebApplication1\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
